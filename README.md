@@ -2,7 +2,7 @@
 
 week 9 practical exercises
 
-Structure
+#Structure
 
 Tasks specified in ./test.js
 Solutions in ./worksheet/
